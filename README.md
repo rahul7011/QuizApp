@@ -10,6 +10,11 @@
     <img src="https://skillicons.dev/icons?i=react,redux,babel,js,html,css,vscode" />
   </a>
 </p>
+
+## Want to get Familiar with Project 🤗?
+https://github.com/rahul7011/QuizApp/assets/52202163/5600595d-5367-4e47-954b-7e34044a620c
+
+
  
 ## Setup process:
 
