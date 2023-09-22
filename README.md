@@ -54,30 +54,38 @@ https://github.com/rahul7011/QuizApp/assets/52202163/5600595d-5367-4e47-954b-7e3
    This command will start a development server and open your React app in a web browser. You can access it at `http://localhost:1234` by default.
 
 
+
+
+
+
+
+
+
+
 ## Screenshots
 <table>
  <tr>
   <td>
-     <img width="420" alt="DM1" src="https://github.com/rahul7011/QuizApp/assets/52202163/a0b70a63-4939-4ee4-bee3-13d6df1ac843">
+     <img width="420" alt="DM1" src="https://github.com/rahul7011/QuizApp/assets/52202163/b408d0ec-e6ed-421c-a181-c846c977c83d">
   </td>
   <td>
-  <img width="420" alt="DM2" src="https://github.com/rahul7011/QuizApp/assets/52202163/62c49ed2-6024-4e58-a245-57ec38938bad">
+  <img width="420" alt="DM2" src="https://github.com/rahul7011/QuizApp/assets/52202163/c6a94f9a-54b9-48e8-9c0c-9815741788ca">
      </td>
  </tr>
  <tr>
   <td>
-   <img width="420" alt="DM3" src="https://github.com/rahul7011/QuizApp/assets/52202163/a59874d5-1b92-4559-92c7-bd46d37811b3">
+   <img width="420" alt="DM3" src="https://github.com/rahul7011/QuizApp/assets/52202163/ea7706ce-9e21-4fbe-8452-6aa72bde1520">
   </td>
   <td>
-   <img width="420" alt="DM4" src="https://github.com/rahul7011/QuizApp/assets/52202163/600abed0-21ba-49ee-9868-e77f9fc1e6b2">
+   <img width="420" alt="DM4" src="https://github.com/rahul7011/QuizApp/assets/52202163/92ac004c-8fd7-44b9-a0fa-63878c17b277">
    </td>
  </tr>
  <tr>
   <td>
-   <img width="420" alt="DM5" src="https://github.com/rahul7011/QuizApp/assets/52202163/10926868-5233-4d78-bca6-80cd2ce7093b">
+   <img width="420" alt="DM5" src="https://github.com/rahul7011/QuizApp/assets/52202163/efc58d12-7520-4c4c-bb13-ce3c11627bb4">
      </td>
   <td>
-   <img width="420" alt="DM6" src="https://github.com/rahul7011/QuizApp/assets/52202163/b6ee7756-422b-4085-91a1-748e0b609bad">
+   <img width="420" alt="DM6" src="https://github.com/rahul7011/QuizApp/assets/52202163/8a6f79e6-3a08-47db-896f-a95c2f959e9b">
      </td>
  </tr>
 </table>
